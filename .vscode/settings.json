@@ -5,9 +5,8 @@
   "material-icon-theme.hidesExplorerArrows": true,
   "workbench.tree.renderIndentGuides": "none",
   "workbench.sideBar.location": "right",
-  "workbench.activityBar.visible": false,
   "workbench.statusBar.visible": false,
-  "workbench.editor.showTabs": false,
+  "workbench.editor.showTabs": "single",
   "workbench.layoutControl.enabled": false,
   "workbench.startupEditor": "none",
   "workbench.tips.enabled": false,
@@ -25,7 +24,7 @@
   "editor.renderWhitespace": "none",
   "editor.renderLineHighlight": "none",
   "editor.matchBrackets": "never",
-  "editor.lightbulb.enabled": false,
+  "editor.lightbulb.enabled": "off",
   "editor.hover.enabled": false,
   "editor.showFoldingControls": "never",
   "editor.scrollbar.horizontal": "hidden",
@@ -89,4 +88,5 @@
   "apc.imports": [
     "file:///Users/igorbabko/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.1/dist/updateHandler.js"
   ],
+  "workbench.activityBar.location": "hidden",
 }
