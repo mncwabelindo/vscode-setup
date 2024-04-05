@@ -11,6 +11,7 @@
 | Ctrl + Shift + `     | TERMINAL: Create new                            |
 | Ctrl + MR            | VIEW: Move panel right                          |
 | Ctrl + W             | VIEW: Close current editor                      |
+| Ctrl + TAB           | VIEW: Toggle editor files                       |
 | Alt + S              | STATUS-BAR: Toggle                              |
 | Ctrl + Shift + A     | ACTIVITY-BAR: Focus                             |
 | Alt + A              | ACTIVITY-BAR: Hide                              |
