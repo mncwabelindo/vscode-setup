@@ -21,4 +21,4 @@
 | Ctrl + Shift + U     | Toggle output panel                             |
 | Ctrl + Alt + CC      | Clear output panel                              |
 | Ctrl + Alt + N       | Run code using Code Runner extension            |
-
+| Ctrl + Enter         | Open Copilot suggestions                        |
