@@ -1,24 +1,24 @@
 | Command              | Description                                     |
 |----------------------|-------------------------------------------------|
-| Ctrl + B             | Toggle explorer panel                           |
-| Ctrl + J             | Toggle integrated terminal                      |
-| Alt + C, K           | Clear integrated terminal                       |
-| Ctrl + L             | Reset integrated terminal                       |
-| Ctrl + MT            | Toggle maximized panel in integrated terminal   |
-| Ctrl + pgDown        | Navigate to next in integrated terminal         |
-| Ctrl + pgUp          | Navigate to previous in integrated terminal     |
-| Ctrl + Shift + `     | Create new integrated terminal                  |
-| Ctrl + MR            | Move panel right in view                        |
-| Alt + S              | Toggle status bar                               |
-| Ctrl + Shift + A     | Focus on activity bar                           |
-| Alt + A              | Hide activity bar                               |
-| Shift + Ctrl + X     | Show extension panel                            |
-| Shift + Ctrl + E     | Focus on explorer panel                         |
-| Ctrl + W             | Close current editor view                       |
-| Ctrl + P             | Search files                                    |
-| Ctrl + K, F          | Close folder                                    |
-| Shift + F10          | Show context menu                               |
-| Ctrl + Shift + U     | Toggle output panel                             |
-| Ctrl + Alt + CC      | Clear output panel                              |
-| Ctrl + Alt + N       | Run code using Code Runner extension            |
-| Ctrl + Enter         | Open Copilot suggestions                        |
+| Ctrl + B             | EXPLORER: Toggle panel                          |
+| Shift + Ctrl + E     | EXPLORER: Focus on panel                        |
+| Ctrl + J             | TERMINAL: Toggle                                |
+| Alt + C, K           | TERMINAL: Clear                                 |
+| Ctrl + L             | TERMINAL: Reset                                 |
+| Ctrl + MT            | TERMINAL: Toggle maximized panel                |
+| Ctrl + pgDown        | TERMINAL: Navigate to next                      |
+| Ctrl + pgUp          | TERMINAL: Navigate to previous                  |
+| Ctrl + Shift + `     | TERMINAL: Create new                            |
+| Ctrl + MR            | VIEW: Move panel right                          |
+| Ctrl + W             | VIEW: Close current editor                      |
+| Alt + S              | STATUS-BAR: Toggle                              |
+| Ctrl + Shift + A     | ACTIVITY-BAR: Focus                             |
+| Alt + A              | ACTIVITY-BAR: Hide                              |
+| Shift + Ctrl + X     | EXTENSIONS: Show panel                          |
+| Ctrl + P             | SEARCH: For files                               |
+| Ctrl + K, F          | FOLDER: Close                                   |
+| Shift + F10          | CONTEXT-MENU: Show                              |
+| Ctrl + Shift + U     | OUTPUT-PANEL: Toggle                            |
+| Ctrl + Alt + CC      | OUTPUT-PANEL: Clear                             |
+| Ctrl + Alt + N       | CODE-RUNNER EXT: Run code                       |
+| Ctrl + Enter         | COPILOT: Open Copilot suggestions               |
