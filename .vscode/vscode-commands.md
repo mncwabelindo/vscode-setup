@@ -1,4 +1,4 @@
-###VS CODE COMMANDS <br/><br/>
+VS CODE COMMANDS <br/><br/>
 
 Ctrl + B                > explorer panel=: toggle  <br/><br/>
 
@@ -42,12 +42,12 @@ Ctrl + Alt + CC     > output panel=: clear <br/><br/>
 
 Ctrl + Alt + N       > code runner=: run code (using extension) <br/><br/><br/>
 
-###WINDOWS COMMANDS <br/><br/>
+WINDOWS COMMANDS <br/><br/>
 
 Alt + D                   > browser=: focus on address bar  <br/><br/>
 
 Shift + Ctrl + W     > window=: close <br/><br/>
 
-###COPILOT <br/><br/>
+COPILOT <br/><br/>
 
 Ctrl + Enter            > open copilot suggestions <br/><br/>
