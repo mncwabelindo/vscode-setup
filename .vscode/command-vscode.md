@@ -21,5 +21,6 @@
 | Shift + F10          | CONTEXT-MENU: Show                              |
 | Ctrl + Shift + U     | OUTPUT-PANEL: Toggle                            |
 | Ctrl + Alt + CC      | OUTPUT-PANEL: Clear                             |
+| Ctrl + Alt + M       | OUTPUT-PANEL: Stop code run                     |
 | Ctrl + Alt + N       | CODE-RUNNER EXT: Run code                       |
 | Ctrl + Enter         | COPILOT: Open Copilot suggestions               |
