@@ -31,7 +31,7 @@ git push --set-upstream azure <new-branch-name> <br/>
 
 git diff --cached                         # to see changes that will be applied on the next commit <br/>
 git difftool                              # to view diff side by side | :qa + Enter to quit difftool <br/>
-git diftool -- [<file-path>]              # git difftool -- .\infra\gateway-api\main.bicep <br/>
+git difftool -- [<file-path>]              # git difftool -- .\infra\gateway-api\main.bicep <br/>
 
 # resetting feature branch to main <br/>
 git checkout main <br/>
