@@ -9,6 +9,7 @@
 | Ctrl + pgDown        | TERMINAL: Navigate to next                      |
 | Ctrl + pgUp          | TERMINAL: Navigate to previous                  |
 | Ctrl + Shift + `     | TERMINAL: Create new                            |
+| Shift + Alt HoldDown | TERMINAL: Tranform cursor to large cross        |
 | Ctrl + MR            | VIEW: Move panel right                          |
 | Ctrl + W             | VIEW: Close current editor                      |
 | Ctrl + TAB           | VIEW: Toggle editor files                       |
