@@ -25,3 +25,5 @@
 | Ctrl + Alt + M       | OUTPUT-PANEL: Stop code run                     |
 | Ctrl + Alt + N       | CODE-RUNNER EXT: Run code                       |
 | Ctrl + Enter         | COPILOT: Open Copilot suggestions               |
+| Ctrl + I             | COPILOT: Open Ask Copilot Chat in editor        |
+| Ctrl + Alt + I       | COPILOT: Open Copilot Chat panel|Ctrl+B :close  |
