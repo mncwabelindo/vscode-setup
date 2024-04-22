@@ -18,6 +18,7 @@
 | Alt + A              | ACTIVITY-BAR: Hide                                      |
 | Shift + Ctrl + X     | EXTENSIONS: Show panel                                  |
 | Ctrl + P             | SEARCH: For files                                       |
+| Ctrl + Shift + F     | SEARCH: Text inside files                               |
 | Ctrl + K, F          | FOLDER: Close                                           |
 | Shift + F10          | CONTEXT-MENU: Show                                      |
 | Ctrl + Shift + U     | OUTPUT-PANEL: Toggle                                    |
@@ -28,3 +29,4 @@
 | Ctrl + I             | COPILOT: Open Ask Copilot Chat in editor                |
 | Ctrl + Alt + I       | COPILOT: Open Copilot Chat panel|Ctrl+B :close          |
 | Alt + R/L Arrow      | REST-CLIENT: Switch focus btwn http file & results      |
+| Ctrl + Alt + R       | REST-CLIENT: Send request                               |
